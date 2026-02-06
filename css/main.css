@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Sometype+Mono&family=Titillium+Web&display=swap');
 @font-face {
-    font-family: 'Gotham Bold';
+    font-family: 'Gotham';
     src: url('fonts/Gotham-Bold.otf') format('opentype');
     font-weight: bold;
     font-style: normal;
 }
 @font-face {
-    font-family: 'Gotham';
+    font-family: 'Gotham WW';
     src: url('fonts/GothamMedium.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
