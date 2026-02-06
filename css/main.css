@@ -5,7 +5,12 @@
     font-weight: bold;
     font-style: normal;
 }
-
+@font-face {
+    font-family: 'Gotham';
+    src: url('../GothamMedium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
 :root {
     --primary-color: #ebf1f1;
     --secondary-color: #6fa6b0;
